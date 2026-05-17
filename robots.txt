@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcp-servers-sandboxed-jf4tsehll-ivo1974kanchev-3737s-projects.vercel.app/sitemap.xml
